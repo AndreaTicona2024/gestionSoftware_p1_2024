@@ -1,2 +1,2 @@
-# gestionSoftware_p1_2024
+# practica1_gestion_De_software
 incos gestion de software
